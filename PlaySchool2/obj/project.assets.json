@@ -8819,11 +8819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hethv\\source\\repos\\PlaySchool2\\PlaySchool2\\PlaySchool2.csproj",
+      "projectUniqueName": "D:\\Repos\\PlaySchool\\PlaySchool2\\PlaySchool2.csproj",
       "projectName": "PlaySchool2",
-      "projectPath": "C:\\Users\\hethv\\source\\repos\\PlaySchool2\\PlaySchool2\\PlaySchool2.csproj",
+      "projectPath": "D:\\Repos\\PlaySchool\\PlaySchool2\\PlaySchool2.csproj",
       "packagesPath": "C:\\Users\\hethv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hethv\\source\\repos\\PlaySchool2\\PlaySchool2\\obj\\",
+      "outputPath": "D:\\Repos\\PlaySchool\\PlaySchool2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hethv\\AppData\\Roaming\\NuGet\\NuGet.Config",
