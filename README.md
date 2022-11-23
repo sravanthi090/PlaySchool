@@ -12,23 +12,23 @@ It includes functionality such as student admission, course creation, and instru
 ![Students List](/OutputScreens/Studentlist.jpeg "Students List")
 
 ## Course List
-![Course List](../PlaySchool/OutputScreens/Courselist.jpeg "Course List")
+![Course List](/OutputScreens/Courselist.jpeg "Course List")
 
 ## Enrollment List
-![Enrollment List](../PlaySchool/OutputScreens/Enrollments.jpeg "Enrollment List")
+![Enrollment List](/OutputScreens/Enrollments.jpeg "Enrollment List")
 
 
 ## CreateStudentData
-![CreateStudentData List](../PlaySchool/OutputScreens/CreateStudentData.jpeg "Enrollment List")
+![CreateStudentData List](/OutputScreens/CreateStudentData.jpeg "Enrollment List")
 
 
 ## EditStudentData
-![EditStudentData](../PlaySchool/OutputScreens/EditStudentData.jpeg "Enrollment List")
+![EditStudentData](/OutputScreens/EditStudentData.jpeg "Enrollment List")
 
 
 ## DetailsStudentData
-![DetailsStudentData](../PlaySchool/OutputScreens/DetailsStudentData.jpeg "Enrollment List")
+![DetailsStudentData](/OutputScreens/DetailsStudentData.jpeg "Enrollment List")
 
 
 ## DeleteStudentData
-![DeleteStudentData](../PlaySchool/OutputScreens/DeleteStudentData.jpeg "Enrollment List")
+![DeleteStudentData](/OutputScreens/DeleteStudentData.jpeg "Enrollment List")
