@@ -9,7 +9,7 @@ It includes functionality such as student admission, course creation, and instru
 
 # Output Screens
 ## Student List
-![Students List](../PlaySchool/OutputScreens/Studentlist.jpeg "Students List")
+![Students List](/OutputScreens/Studentlist.jpeg "Students List")
 
 ## Course List
 ![Course List](../PlaySchool/OutputScreens/Courselist.jpeg "Course List")
