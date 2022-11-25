@@ -85,8 +85,8 @@ namespace PlaySchool2.Controllers
             {
                 return NotFound();
             }
-            ViewData["CourseID"] = new SelectList(_context.Courses, "CourseID", "CourseID", enrollment.CourseID);
-            ViewData["StudentID"] = new SelectList(_context.Students, "ID", "ID", enrollment.StudentID);
+            ViewData["CourseID"] = new SelectList(_context.Courses, "CourseID", "Title", enrollment.CourseID);
+            ViewData["StudentID"] = new SelectList(_context.Students, "ID", "LastName", enrollment.StudentID);
             return View(enrollment);
         }
 
