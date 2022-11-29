@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OutputScreens"
+    "\\PlaySchool2",
+    "\\PlaySchool2\\Controllers"
   ],
-  "SelectedNode": "\\PlaySchool2.sln",
+  "SelectedNode": "\\PlaySchool2\\Controllers\\EnrollmentsController.cs",
   "PreviewInSolutionExplorer": false
 }
